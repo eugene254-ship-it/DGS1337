@@ -2,9 +2,9 @@
 <a href=></a>
 <br><br>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/153490292081819648?theme=black&bg=1C1C1C&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=ROOT)](https://discord.com/users/153490292081819648)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/153490292081819648?theme=black&bg=0a0e12&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=ROOT)](https://discord.com/users/153490292081819648)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/767502316462931969?theme=black&bg=1C1C1C&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=user)](https://discord.com/users/153490292081819648)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/767502316462931969?theme=black&bg=0a0e12&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=user)](https://discord.com/users/153490292081819648)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=DGS1337&theme=gotham&hide_border=true&area=true)
 
