@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  <a href="https://twitter.com/dougkalalash"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/dougkalash"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://t.me/DGS1337"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://steamcommunity.com/id/DG404/"><img src="https://img.shields.io/badge/Steam-2CA5E0?style=for-the-badge&logo=steam&logoColor=black"></a>
   <br><br>
